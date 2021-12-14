@@ -14,6 +14,7 @@ PADS PCB Artwork
 
 ## PADS Logic Personal study
 <img src = "https://user-images.githubusercontent.com/95323172/144539614-677d19ef-d616-4df7-8538-f5c613085a66.png" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/95323172/145919329-a34362b2-7afb-4940-8437-9d8f30fe7064.png" width="50%" height="50%">
 
 ## PADS Layout Personal study
 <img src = "https://user-images.githubusercontent.com/95323172/144539621-ba0c77ec-5ed5-4b50-b20b-6a9127e14efc.png" width="50%" height="50%">
